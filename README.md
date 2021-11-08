@@ -1,4 +1,4 @@
-<a href="www.linkedin.com/in/stand-alone11"><img src="https://img.shields.io/badge/MinsuKim-0a66c2?logo=Linkedin"></a>
+<a href="mailto:ms001118@gmail.com"><img src="https://img.shields.io/badge/ms001118@gmail.com-EA4335?logo=Gmail&logoColor=white"></a> <a href="www.linkedin.com/in/stand-alone11"><img src="https://img.shields.io/badge/MinsuKim-0a66c2?logo=Linkedin"></a>
 
 ## I'm Kim Minsu
 
