@@ -12,3 +12,6 @@ I'm Android app developer
 
 - Mechanical Engineering
 - Human Factor Engineering
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ms001118)](https://solved.ac/ms001118)
